@@ -1,1 +1,12 @@
+/**
+ * @name Mid-Theme Addon
+ * @author Cardrhyme206113#8604
+ * @description This Addon Adds Horizontal Server List. (You should apply to this too or else the Mid-Theme theme will break.)
+*/
 
+@import url("https://discordstyles.github.io/HorizontalServerList/base.css");
+
+:root {
+  --HSL-server-icon-size: 45px;  /* Size of the server icons | DEFAULT: 40px */
+  --HSL-server-spacing: 7px;  /* Spacing between each server icon | DEFAULT: 10px */
+}
